@@ -71,6 +71,7 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [A Continual Learning Survey: Defying Forgetting in Classification Tasks](https://ieeexplore.ieee.org/document/9349197)    |  IEEE TPAMI 2022     | 
 | [Class-Incremental Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10599804)    |   IEEE TPAMI 2024    | 
 | [Recent Advances of Continual Learning in Computer Vision: An Overview](https://arxiv.org/abs/2109.11369)    |     arXiv 2024   | 
+| [Class-Incremental Learning: Survey and Performance Evaluation on Image Classification](https://ieeexplore.ieee.org/document/9915459)    |     IEEE TPAMI 2023   | 
 | [Continual Learning of Natural Language Processing Tasks: A Survey](https://arxiv.org/abs/2211.12701)    |    arXiv 2023   | 
 | [Continual Learning for Large Language Models: A Survey](https://arxiv.org/abs/2402.01364)    |   arXiv 2024    | 
 | [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/abs/2406.06391)    |   arXiv 2024    | 
