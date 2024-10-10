@@ -1,5 +1,10 @@
 # Awesome-Multimodal-Continual-Learning
 
+## Our MMCL Survey
+[Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/abs/2410.05352)
+
+The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
+
 ## Methodology
 
 ### Regularization-based
@@ -10,7 +15,7 @@
 | [Continual Vision-Language Representation Learning with Off-Diagonal Information](https://proceedings.mlr.press/v202/ni23c.html)  | Mod-X  | ICML 2023       | -     |   
 | [Multi-Domain Lifelong Visual Question Answering via Self-Critical Distillation](https://dl.acm.org/doi/10.1145/3581783.3612121)  | SCD  |    ACM Multimedia 2023   | -    | 
 | [Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_7)  | CS-VQLA  |  MICCAI 2023    | [Link](https://github.com/longbai1006/CS-VQLA)    | 
-| [CTP:Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](https://ieeexplore.ieee.org/document/10378115)  | CTP  |  ICCV 2023    | [Link](https://github.com/KevinLight831/CTP)    | 
+| [CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](https://ieeexplore.ieee.org/document/10378115)  | CTP  |  ICCV 2023    | [Link](https://github.com/KevinLight831/CTP)    | 
 | [Continual Multimodal Knowledge Graph Construction](https://doi.org/10.48550/arXiv.2305.08698)  | MSPT  |     IJCAI 2024  | [Link](https://github.com/zjunlp/ContinueMKGC)    | 
 
 
@@ -55,7 +60,21 @@
 | [Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task](https://ojs.aaai.org/index.php/AAAI/article/view/25208)  | CLOVE  |  AAAI 2023    | [Link](https://github.com/showlab/CLVQA)    | 
 | [Continual Multimodal Knowledge Graph Construction](https://doi.org/10.48550/arXiv.2305.08698)  | IMNER, IMRE  |   IJCAI 2024    | [Link](https://github.com/zjunlp/ContinueMKGC)    | 
 | [Preventing Zero-Shot Transfer Degradation in Continual Learning of Vision-Language Models](https://ieeexplore.ieee.org/document/10377061)  | MTIL  | ICCV 2023     | [Link](https://github.com/Thunderbeee/ZSCL)    | 
-| [CTP:Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](https://ieeexplore.ieee.org/document/10378115)  | VLCP  |  ICCV 2023    | [Link](https://github.com/KevinLight831/CTP)    | 
+| [CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](https://ieeexplore.ieee.org/document/10378115)  | VLCP  |  ICCV 2023    | [Link](https://github.com/KevinLight831/CTP)    | 
 | [Beyond Unimodal Learning: The Importance of Integrating Multiple Modalities for Lifelong Learning](https://arxiv.org/abs/2405.02766)  | MMCL  |   CoLLAs 2024    | [Link](https://github.com/NeurAI-Lab/MultiModal-CL)    | 
 | [Towards Continual Egocentric Activity Recognition: A Multi-Modal Egocentric Activity Dataset for Continual Learning](https://ieeexplore.ieee.org/document/10184468)  | CEAR  |  IEEE Trans. Multim. 2024    | [Link](https://github.com/Xu-Linfeng/UESTC_MMEA_CL_main)    | 
+
+## Other CL Surveys
+| Paper      |   Venue       |  
+|-----------| :----------------:| 
+| [A Comprehensive Survey of Continual Learning: Theory, Method and Application](https://ieeexplore.ieee.org/document/10444954/)    |  IEEE TPAMI 2024      | 
+| [A Continual Learning Survey: Defying Forgetting in Classification Tasks](https://ieeexplore.ieee.org/document/9349197)    |  IEEE TPAMI 2022     | 
+| [Class-Incremental Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10599804)    |   IEEE TPAMI 2024    | 
+| [Recent Advances of Continual Learning in Computer Vision: An Overview](https://arxiv.org/abs/2109.11369)    |     arXiv 2024   | 
+| [Continual Learning of Natural Language Processing Tasks: A Survey](https://arxiv.org/abs/2211.12701)    |    arXiv 2023   | 
+| [Continual Learning for Large Language Models: A Survey](https://arxiv.org/abs/2402.01364)    |   arXiv 2024    | 
+| [Towards Lifelong Learning of Large Language Models: A Survey](https://arxiv.org/abs/2406.06391)    |   arXiv 2024    | 
+| [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/abs/2402.11565)    | arXiv 2024      | 
+| [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)    |    arXiv 2024     | 
+| [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/abs/2405.18653)    |      arXiv 2024  | 
 
