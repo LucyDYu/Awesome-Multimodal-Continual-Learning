@@ -31,6 +31,7 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Multimodal Continual Graph Learning with Neural Architecture Search](https://dl.acm.org/doi/10.1145/3485447.3512176)  | MSCGL | WWW 2022       | -     | 
 | [Multimodal Continual Learning Using Online Dictionary Updating](https://ieeexplore.ieee.org/document/8994101)  | ODU  |  IEEE Trans. Cogn. Dev. Syst. 2021    | -    | 
 | [Confusion Mixup Regularized Multimodal Fusion Network for Continual Egocentric Activity Recognition](https://ieeexplore.ieee.org/document/10350836)  | CMR-MFN  |   ICCV (Workshops) 2023   | [Link](https://github.com/Hanna-W/CMR-MFN)    | 
+| [Generative Multi-modal Models are Good Class Incremental Learners](https://ieeexplore.ieee.org/document/10655035/)  | GMM | CVPR 2024    | [Link](https://github.com/DoubleClass/GMM)    | 
 
 
 ### Replay-based
@@ -44,6 +45,7 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Beyond Unimodal Learning: The Importance of Integrating Multiple Modalities for Lifelong Learning](https://arxiv.org/abs/2405.02766)  | SAMM  |  CoLLAs 2024    | [Link](https://github.com/NeurAI-Lab/MultiModal-CL)    | 
 | [Vision-Sensor Attention Based Continual Multimodal Egocentric Activity Recognition](https://ieeexplore.ieee.org/document/10446924)  | AID  | ICASSP 2024    | -    | 
 | [Continual Egocentric Activity Recognition With Foreseeable-Generalized Visual–IMU Representations](https://ieeexplore.ieee.org/document/10462907)  | FGVIRs  |   IEEE Sensors Journal 2024   | -    | 
+| [Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion](https://arxiv.org/abs/2407.14143)  | RAPF | ECCV 2024    | [Link](https://github.com/linlany/RAPF)    | 
 
 ### Prompt-based
 | Paper      | Method | Venue       | Code   |  
