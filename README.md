@@ -3,7 +3,7 @@
 ## Our MMCL Survey
 [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/abs/2410.05352)
 
-The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
+The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods. [[PDF](https://arxiv.org/pdf/2410.05352)] [[机器之心](https://mp.weixin.qq.com/s/2ONfTfOtAJXtjMsg2f2baQ)]
 
 ## Methodology
 
