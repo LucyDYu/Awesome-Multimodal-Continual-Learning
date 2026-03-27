@@ -5,6 +5,18 @@
 
 The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods. [[TNNLS](https://ieeexplore.ieee.org/document/11456498)] [[arXiv](https://arxiv.org/pdf/2410.05352)] [[Blog](https://mp.weixin.qq.com/s/2ONfTfOtAJXtjMsg2f2baQ)]
 
+We hope this survey and repository are useful for your research. If they help your work, we would greatly appreciate it if you could cite our paper:
+```bibtex
+@article{Yu2026Recent,
+  author={Yu, Dianzhi and Zhang, Xinni and Chen, Yankai and Liu, Aiwei and Zhang, Yifei and Yu, Philip S. and King, Irwin},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Recent Advances of Multimodal Continual Learning: A Comprehensive Survey}, 
+  year={2026},
+  pages={1-21},
+  doi={10.1109/TNNLS.2026.3658485}
+}
+```
+
 ## Methodology
 
 ### Regularization-based
