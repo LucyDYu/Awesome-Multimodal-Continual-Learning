@@ -1,9 +1,9 @@
 # Awesome-Multimodal-Continual-Learning
 
 ## Our MMCL Survey
-[Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://arxiv.org/abs/2410.05352)
+[TNNLS 2026] [Recent Advances of Multimodal Continual Learning: A Comprehensive Survey](https://ieeexplore.ieee.org/document/11456498)
 
-The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods. [[PDF](https://arxiv.org/pdf/2410.05352)] [[机器之心](https://mp.weixin.qq.com/s/2ONfTfOtAJXtjMsg2f2baQ)]
+The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods. [[TNNLS](https://ieeexplore.ieee.org/document/11456498)] [[arXiv](https://arxiv.org/pdf/2410.05352)] [[Blog](https://mp.weixin.qq.com/s/2ONfTfOtAJXtjMsg2f2baQ)]
 
 ## Methodology
 
@@ -17,6 +17,8 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_7)  | CS-VQLA  |  MICCAI 2023    | [![Github](https://img.shields.io/github/stars/longbai1006/CS-VQLA?style=flat)](https://github.com/longbai1006/CS-VQLA)  | 
 | [CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](https://ieeexplore.ieee.org/document/10378115)  | CTP  |  ICCV 2023    | [![Github](https://img.shields.io/github/stars/KevinLight831/CTP?style=flat)](https://github.com/KevinLight831/CTP)    | 
 | [Continual Multimodal Knowledge Graph Construction](https://doi.org/10.48550/arXiv.2305.08698)  | MSPT  |     IJCAI 2024  | [![Github](https://img.shields.io/github/stars/zjunlp/ContinueMKGC?style=flat)](https://github.com/zjunlp/ContinueMKGC)    | 
+| [Select and Distill: Selective Dual-Teacher Knowledge Transfer for Continual Learning on Vision-Language Models](https://chuyu.org/research/snd/)  | SnD  |     ECCV 2024  | [![Github](https://img.shields.io/github/stars/chu0802/SnD?style=flat)](https://github.com/chu0802/SnD)    | 
+| [Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning](https://arxiv.org/abs/2411.06764)  | MulKI  |    arXiv 2024  | -      |
 
 
 ### Architecture-based
@@ -31,6 +33,8 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Multimodal Continual Graph Learning with Neural Architecture Search](https://dl.acm.org/doi/10.1145/3485447.3512176)  | MSCGL | WWW 2022       | -     | 
 | [Multimodal Continual Learning Using Online Dictionary Updating](https://ieeexplore.ieee.org/document/8994101)  | ODU  |  IEEE Trans. Cogn. Dev. Syst. 2021    | -    | 
 | [Confusion Mixup Regularized Multimodal Fusion Network for Continual Egocentric Activity Recognition](https://ieeexplore.ieee.org/document/10350836)  | CMR-MFN  |   ICCV (Workshops) 2023   | [![Github](https://img.shields.io/github/stars/Hanna-W/CMR-MFN?style=flat)](https://github.com/Hanna-W/CMR-MFN)   | 
+| [Mind the Interference: Retaining Pre-trained Knowledge in Parameter Efficient Continual Learning of Vision-Language Models](https://arxiv.org/abs/2407.05342)  | DIKI  |   ECCV 2024   | [![Github](https://img.shields.io/github/stars/lloongx/DIKI?style=flat)](https://github.com/lloongx/DIKI)     |
+| [Visually Grounded Continual Language Learning with Selective Specialization](https://aclanthology.org/2023.findings-emnlp.469/)  | SS  |  EMNLP (Findings) 2023  | [![Github](https://img.shields.io/github/stars/ky-ah/selective-lilac?style=flat)](https://github.com/ky-ah/selective-lilac)    |
 
 
 
@@ -47,6 +51,10 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Continual Egocentric Activity Recognition With Foreseeable-Generalized Visual–IMU Representations](https://ieeexplore.ieee.org/document/10462907)  | FGVIRs  |   IEEE Sensors Journal 2024   | -    | 
 | [Class-Incremental Learning with CLIP: Adaptive Representation Adjustment and Parameter Fusion](https://arxiv.org/abs/2407.14143)  | RAPF | ECCV 2024    | [![Github](https://img.shields.io/github/stars/linlany/RAPF?style=flat)](https://github.com/linlany/RAPF)  | 
 | [Generative Multi-modal Models are Good Class Incremental Learners](https://ieeexplore.ieee.org/document/10655035/)  | GMM | CVPR 2024    | [![Github](https://img.shields.io/github/stars/DoubleClass/GMM?style=flat)](https://github.com/DoubleClass/GMM)  | 
+| [Advancing Cross-domain Discriminability in Continual Learning of Vision-Language Models](https://arxiv.org/abs/2406.18868)  | RAIL  |  NeurIPS 2024  | [![Github](https://img.shields.io/github/stars/linghan1997/Regression-based-Analytic-Incremental-Learning?style=flat)](https://github.com/linghan1997/Regression-based-Analytic-Incremental-Learning)    |
+| [Enhanced Continual Learning of Vision-Language Models with Model Fusion](https://arxiv.org/abs/2503.10705)  | ConDU  |  ICLR 2025 Workshop  | -      |
+| [Continual Learning for Multimodal Data Fusion of a Soft Gripper](https://arxiv.org/abs/2409.13792)  | exFeCAM  |   arXiv 2024  | -      |
+
 
 ### Prompt-based
 | Paper      | Method | Venue       | Code   |  
@@ -55,6 +63,12 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Decouple Before Interact: Multi-Modal Prompt Learning for Continual Visual Question Answering](https://ieeexplore.ieee.org/document/10377343)  | TRIPLET  |  ICCV 2023    | -    | 
 | [Beyond Anti-Forgetting: Multimodal Continual Instruction Tuning with Positive Forward Transfer](https://arxiv.org/abs/2401.09181)  | Fwd-Prompt  |  arXiv 2024    | -    | 
 | [S-Prompts Learning with Pre-trained Transformers: An Occam's Razor for Domain Incremental Learning](https://proceedings.neurips.cc//paper_files/paper/2022/hash/25886d7a7cf4e33fd44072a0cd81bf30-Abstract-Conference.html)  | S-liPrompts  |  NeurIPS 2022    | [![Github](https://img.shields.io/github/stars/iamwangyabin/S-Prompts?style=flat)](https://github.com/iamwangyabin/S-Prompts)  | 
+| [Boosting Open-Domain Continual Learning via Leveraging Intra-domain Category-aware Prototype](https://arxiv.org/abs/2408.09984)  | DPeCLIP  |   arXiv 2024   |[![Github](https://img.shields.io/github/stars/DeepMed-Lab-ECNU/DPeCLIP?style=flat)](https://github.com/DeepMed-Lab-ECNU/DPeCLIP)      |
+| [Calibrating Prompt from History for Continual Vision-Language Retrieval and Grounding](https://dl.acm.org/doi/10.1145/3664647.3681387)  | HPC  |   ACM Multimedia 2024 | -      |
+| [MM-Prompt: Cross-Modal Prompt Tuning for Continual Visual Question Answering](https://arxiv.org/abs/2505.19455)  | MM-Prompt  |    arXiv 2025  | [![Github](https://img.shields.io/github/stars/xli04/CVQA?style=flat)](https://github.com/xli04/CVQA)      |
+| [CoLeCLIP: Continual Learning of CLIP with Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10950105/)  | CoLeCLIP  |   IEEE TNNLS 2025   | [![Github](https://img.shields.io/github/stars/YukunLi99/CoLeCLIP?style=flat)](https://github.com/YukunLi99/CoLeCLIP)     |
+
+
 
 ## Benchmarks
 | Paper      | Name | Venue       | Code   |  
@@ -66,6 +80,9 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [CTP: Towards Vision-Language Continual Pretraining via Compatible Momentum Contrast and Topology Preservation](https://ieeexplore.ieee.org/document/10378115)  | VLCP  |  ICCV 2023    | [![Github](https://img.shields.io/github/stars/KevinLight831/CTP?style=flat)](https://github.com/KevinLight831/CTP)   | 
 | [Beyond Unimodal Learning: The Importance of Integrating Multiple Modalities for Lifelong Learning](https://arxiv.org/abs/2405.02766)  | MMCL  |   CoLLAs 2024    | [![Github](https://img.shields.io/github/stars/NeurAI-Lab/MultiModal-CL?style=flat)](https://github.com/NeurAI-Lab/MultiModal-CL)   | 
 | [Towards Continual Egocentric Activity Recognition: A Multi-Modal Egocentric Activity Dataset for Continual Learning](https://ieeexplore.ieee.org/document/10184468)  | CEAR  |  IEEE Trans. Multim. 2024    | [![Github](https://img.shields.io/github/stars/Xu-Linfeng/UESTC_MMEA_CL_main?style=flat)](https://github.com/Xu-Linfeng/UESTC_MMEA_CL_main)  | 
+| [Visually Grounded Continual Language Learning with Selective Specialization](https://aclanthology.org/2023.findings-emnlp.469/)  | LILAC  |  EMNLP (Findings) 2023  | [![Github](https://img.shields.io/github/stars/ky-ah/selective-lilac?style=flat)](https://github.com/ky-ah/selective-lilac)    |
+
+
 
 ## Other CL Surveys
 | Paper      |   Venue       |  
@@ -81,4 +98,6 @@ The first comprehensive survey for Multimodal Continual Learning (MMCL) Methods.
 | [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/abs/2402.11565)    | arXiv 2024      | 
 | [Continual Learning with Pre-Trained Models: A Survey](https://arxiv.org/abs/2401.16386)    |    arXiv 2024     | 
 | [Recent Advances of Foundation Language Models-based Continual Learning: A Survey](https://arxiv.org/abs/2405.18653)    |      arXiv 2024  | 
+| [Federated Continual Learning via Knowledge Fusion: A Survey](https://ieeexplore.ieee.org/abstract/document/10423871)    |      IEEE TKDE 2024  | 
+| [Continual Learning With Knowledge Distillation: A Survey](https://ieeexplore.ieee.org/document/10721446)    |      IEEE TNNLS 2024  | 
 
